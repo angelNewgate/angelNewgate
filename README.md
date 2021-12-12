@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding, learn languajes, anime and even more stuffs
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on a Start-up
-- 📫 You can reached through Twitter: https://twitter.com/angelnewgate
+- 📫 You can reach me through Twitter: https://twitter.com/angelnewgate
 
 <!---
 angelNewgate/angelNewgate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
